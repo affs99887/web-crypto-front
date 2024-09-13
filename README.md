@@ -2,6 +2,8 @@
 
 这是一个使用 Vue 3 的前端应用，演示如何使用浏览器的 Web Cryptography API 进行 RSA 加密、AES-GCM 加密以及与服务器进行交互，最终实现对加密数据的解密操作。
 
+对应的后端：https://github.com/affs99887/web-crypto-backend 或者 https://gitee.com/scape0goat/web-crypto-back
+
 原理文档：https://ucn1x4mi5suo.feishu.cn/wiki/V52pwIxMGiYaPTk73Y4cp8ULn4g?from=from_copylink
 
 ## 功能
